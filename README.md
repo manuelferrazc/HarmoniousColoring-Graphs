@@ -1,4 +1,7 @@
 # Harmonious Coloring - Input Graphs
+
+[![DOI](https://zenodo.org/badge/1226937766.svg)](https://doi.org/10.5281/zenodo.19967146)
+
 This repository contains the graphs that were used as input in the article "A Branch and Cut to Harmonious Coloring", along with the program used to create these graphs
 
 The graphs are in the directory **graphs/**, divided into four sets: RAND1, RAND2, RAND3 and RAND4.
